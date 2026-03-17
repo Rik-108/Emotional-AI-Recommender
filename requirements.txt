@@ -1,0 +1,8 @@
+opencv-python
+pandas
+numpy
+requests
+SpeechRecognition
+deepface
+google-api-python-client
+tf-keras
